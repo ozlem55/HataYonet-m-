@@ -1,0 +1,16 @@
+C:\Users\ozlem\source\repos\HataYonetımı\HataYonetımı\bin\Debug\net5.0\HataYonetımı.exe
+C:\Users\ozlem\source\repos\HataYonetımı\HataYonetımı\bin\Debug\net5.0\HataYonetımı.deps.json
+C:\Users\ozlem\source\repos\HataYonetımı\HataYonetımı\bin\Debug\net5.0\HataYonetımı.runtimeconfig.json
+C:\Users\ozlem\source\repos\HataYonetımı\HataYonetımı\bin\Debug\net5.0\HataYonetımı.runtimeconfig.dev.json
+C:\Users\ozlem\source\repos\HataYonetımı\HataYonetımı\bin\Debug\net5.0\HataYonetımı.dll
+C:\Users\ozlem\source\repos\HataYonetımı\HataYonetımı\bin\Debug\net5.0\ref\HataYonetımı.dll
+C:\Users\ozlem\source\repos\HataYonetımı\HataYonetımı\bin\Debug\net5.0\HataYonetımı.pdb
+C:\Users\ozlem\source\repos\HataYonetımı\HataYonetımı\obj\Debug\net5.0\HataYonetımı.csproj.AssemblyReference.cache
+C:\Users\ozlem\source\repos\HataYonetımı\HataYonetımı\obj\Debug\net5.0\HataYonetımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozlem\source\repos\HataYonetımı\HataYonetımı\obj\Debug\net5.0\HataYonetımı.AssemblyInfoInputs.cache
+C:\Users\ozlem\source\repos\HataYonetımı\HataYonetımı\obj\Debug\net5.0\HataYonetımı.AssemblyInfo.cs
+C:\Users\ozlem\source\repos\HataYonetımı\HataYonetımı\obj\Debug\net5.0\HataYonetımı.csproj.CoreCompileInputs.cache
+C:\Users\ozlem\source\repos\HataYonetımı\HataYonetımı\obj\Debug\net5.0\HataYonetımı.dll
+C:\Users\ozlem\source\repos\HataYonetımı\HataYonetımı\obj\Debug\net5.0\ref\HataYonetımı.dll
+C:\Users\ozlem\source\repos\HataYonetımı\HataYonetımı\obj\Debug\net5.0\HataYonetımı.pdb
+C:\Users\ozlem\source\repos\HataYonetımı\HataYonetımı\obj\Debug\net5.0\HataYonetımı.genruntimeconfig.cache
